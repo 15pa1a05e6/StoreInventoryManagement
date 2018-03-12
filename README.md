@@ -1,0 +1,2 @@
+# StoreInventoryManagement
+using jquery,php
